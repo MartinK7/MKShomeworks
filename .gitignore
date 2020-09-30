@@ -1,0 +1,8 @@
+
+# STM32CubeMX
+.*
+RemoteSystemsTempFiles/
+
+
+# Add .gitignore
+!.gitignore
